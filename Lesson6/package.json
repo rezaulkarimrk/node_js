@@ -1,0 +1,21 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "This is npm testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node.js",
+    "nodemon"
+  ],
+  "author": "Rezaul Karim RK",
+  "license": "ISC",
+  "dependencies": {
+    "movies-names": "^1.1.1",
+    "name-to-imdb": "^3.0.4",
+    "random-fruits-name": "^1.9.6"
+  }
+}
